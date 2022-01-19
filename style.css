@@ -1,0 +1,24 @@
+body {
+   background-color:rgb(148, 148, 239);
+   font-family: 'Special Elite', cursive;
+}
+.copu_right_footer {
+    color:rgb(240, 14, 75);
+    position: fixed;
+    width: 100%;
+    bottom : 0px;
+    height : 80px;
+    text-align: center;
+    font-size: x-large;
+}
+.header_div
+{
+    background: white;
+    color: #ce2700;
+}
+.header_div p{
+font-family: 'Rubik Beastly', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: bold;
+}
